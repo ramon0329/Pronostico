@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#pronostico{
+
+}
+
+.prediccion{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 2fr 1fr;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+i{
+    font-size: 1.5em;
+}
+
